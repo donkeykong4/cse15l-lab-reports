@@ -17,7 +17,7 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
-Type in yes and enter your password. Your terminal shoud look as follows [Image](loggedin.png)
+Type in yes and enter your password. Your terminal shoud look as follows ![Image](loggedin.png)
 You are now connected to a remote server!
 
 ## Step 3: Trying Some Commands
@@ -28,4 +28,5 @@ Now that you are connected to the remote server, you can try running certain com
 * `ls -a`
 * `ls -lat`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
-Here is an example of what the command `ls -lat` would look like on the remote server. [Image](command.png)
+Here is an example of what the command `ls -lat` would look like on the remote server. ![Image](command.png)
+To exit the remote server, type in `exit` as a command or Ctrl-D on your keyboard.
