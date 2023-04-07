@@ -30,4 +30,4 @@ Now that you are connected to the remote server, you can try running certain com
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 Here is an example of what the command `ls -lat` would look like on the remote server. ![Image](command.png)
-To exit the remote server, type in `exit` as a command or Ctrl-D on your keyboard.
+To exit the remote server, type the command `exit` or Ctrl-D on your keyboard.
