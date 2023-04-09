@@ -1,7 +1,3 @@
-# Title
+# CSE15L Lab Reports
 
-*Good Morning*
-
-**Hello**
-
-[Link](https://www.youtube.com/)
+[Lab Report 1](https://donkeykong4.github.io/cse15l-lab-reports/lab1.html)
