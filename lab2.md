@@ -3,10 +3,10 @@
 ## Part 1
 ![Image](StringServer.png)
 
-![Image](add Hello.png)
+![Image](Hello.png)
 The methods that is called is handleRequest(). The relevant argument is the URI "add-messages?s=Hello". The query s has the parameter "Hello". The relevant field is s in the Handler class which is currently empty. The value of s in the class Handler would change from an empty String to "Hello". 
 
-![Image](add How Are You.png)
+![Image](How Are You.png)
 The methods that is called is handleRequest(). The relevant argument is the URI "add-messages?s=How%20are%20you". The query s has the parameter "How are you". The relevant field is s in the handler class which is currently set to "Hello\n". The value of s in the class Handler would change from "Hello\n" to ""Hello\nHow are you". 
 
 ## Part 2
