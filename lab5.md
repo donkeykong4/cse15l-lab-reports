@@ -19,10 +19,12 @@ The failure inducing input is when I try to run the file test.sh, the terminal o
 Dear Student, thank you for your inquiry. Have you reviewed the conditional expression in the code? Pay attention to the spacing, is there anything that stands out to you?
 
 ![Image](response.png)
+
 The bug is that there is there is not an adequate amount of spaces in the conditional line resulting in a syntax error.
 The directory is example while the file is test.sh.
 
-Before: ![Image](before.png)
+Before: 
+![Image](before.png)
 
 The line ran to trigger the bug: `bash test.sh`
 
